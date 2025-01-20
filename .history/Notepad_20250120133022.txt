@@ -1,0 +1,13 @@
+# Create the guide text and save it into a .txt file
+
+guide_text = """
+# npm Publish Guide
+
+## 1. Preparing Your Package for npm
+Before you can publish your package to npm, ensure that it’s ready for distribution. Follow these steps:
+
+### 1.1. Create a package.json file
+If you don't already have a `package.json` file in your project, generate one using:
+
+```bash
+npm init
