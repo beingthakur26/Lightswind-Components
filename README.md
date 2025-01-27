@@ -3,7 +3,7 @@ Lightswind UI is the ultimate frontend library for building modern, responsive, 
 
 ## Latest Version
 
-[![npm version](https://img.shields.io/npm/v/@lightswind)](https://www.npmjs.com/package/lightswind)
+[![npm version](https://img.shields.io/npm/v/@lightswind)](https://www.npmjs.com/package/@lightswind)
 
 ## About
 Lightswind UI is the ultimate frontend library...
