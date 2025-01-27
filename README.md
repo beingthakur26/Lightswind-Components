@@ -22,7 +22,7 @@ npm install lightswind@latest
 For complete installation guide, visit [Lightswind Installation](https://lightswind.com/docs/installation).
 
 
-### Installing the Insider's Version
+### Use in Html Project with CDN
 
 You can also include Lightswind UI in your project by directly linking to the CDN in your HTML file:
 
