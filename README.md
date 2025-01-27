@@ -19,6 +19,9 @@ To install the latest version of Lightswind UI, use the following command:
 ```bash
 npm install lightswind@latest
 ```
+For complete installation guide, visit [Lightswind Installation](https://lightswind.com/docs/installation).
+
+
 ### Installing the Insider's Version
 
 You can also include Lightswind UI in your project by directly linking to the CDN in your HTML file:
@@ -30,8 +33,8 @@ You can also include Lightswind UI in your project by directly linking to the CD
 <!-- Add this script CDN link at the bottom of the body, after all the HTML content, and before any other script tags -->
 <script src="https://cdn.jsdelivr.net/npm/lightswind@1.0.1/src/lightswind.min.js"></script>
 
- <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
+<!-- Tailwind CSS CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
 ```
 
 ## Contributing
