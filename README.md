@@ -30,7 +30,7 @@ You can also include Lightswind UI in your project by directly linking to the CD
 <script src="https://cdn.jsdelivr.net/npm/lightswind@1.0.1/src/lightswind.min.js"></script>
 
  <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.tailwindcss.com"></script>```
 
 ## Contributing
 
