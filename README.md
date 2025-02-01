@@ -42,7 +42,7 @@ We welcome contributions to Lightswind UI. Before submitting a pull request, ple
 
 ## Changelog
 
-## Lightswind Inception | January 2025
+### Lightswind Inception | January 2025
 (Version - 1.0.1)
 
 The beginning of an innovative journey! We introduced Lightswind, laying the groundwork for a powerful and versatile UI component library.
