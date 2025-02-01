@@ -2,6 +2,14 @@
   Lightswind UI
 </h3>
 
+<div align="center">
+	<br>
+	<br>
+	<img src="https://firebasestorage.googleapis.com/v0/b/codewithmuhilandb.appspot.com/o/uploads%2FlightwindLogoDark.svg?alt=media&token=fbeb02bf-c2f9-4113-86d7-301a22829a4c" alt="react-bits logo" height="200">
+	<br>
+	<br>
+</div>
+
 <p align="center">
 Lightswind UI is a comprehensive frontend library designed to help developers and designers create modern, responsive, and highly interactive user interfaces with ease. Leveraging the power of Tailwind CSS, Lightswind UI offers a collection of creative, pre-built React and HTML components that seamlessly integrate into any project, allowing you to bring your ideas to life effortlessly.
 </p>
