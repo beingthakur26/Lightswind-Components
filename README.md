@@ -40,3 +40,13 @@ You can also include Lightswind UI in your project by directly linking to the CD
 ## Contributing
 We welcome contributions to Lightswind UI. Before submitting a pull request, please review our [contributing guidelines](https://lightswind.com/docs/license) to ensure your submission aligns with our project standards.
 
+## Changelog
+
+## Lightswind Inception | January 2025
+(Version - 1.0.1)
+
+The beginning of an innovative journey! We introduced Lightswind, laying the groundwork for a powerful and versatile UI component library.
+
+ - Over 60 expertly crafted UI components
+ - Effortless integration via NPM & CDN for open-source accessibility
+
