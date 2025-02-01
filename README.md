@@ -10,7 +10,7 @@ Lightswind UI is a comprehensive frontend library designed to help developers an
 
 ## Documentation
 
-For complete documentation, visit [Lightswind Documentation](https://lightswind.com/).
+For complete documentation, visit [Lightswind Documentation](https://lightswind.com/docs).
 
 ### Installing the Latest Version
 
