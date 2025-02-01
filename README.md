@@ -47,6 +47,6 @@ We welcome contributions to Lightswind UI. Before submitting a pull request, ple
 
 The beginning of an innovative journey! We introduced Lightswind, laying the groundwork for a powerful and versatile UI component library.
 
- - Over 60 expertly crafted UI components
+ - Over 60+ expertly crafted UI components
  - Effortless integration via NPM & CDN for open-source accessibility
 
