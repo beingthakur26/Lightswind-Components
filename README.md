@@ -5,7 +5,7 @@
 <div align="center">
 	<br>
 	<br>
-	<img src="https://firebasestorage.googleapis.com/v0/b/codewithmuhilandb.appspot.com/o/uploads%2FlightwindLogoDark.svg?alt=media&token=fbeb02bf-c2f9-4113-86d7-301a22829a4c" alt="lightswind logo" height="200">
+	<img src="https://lightswind.com/lighstwind-logo.png" alt="lightswind logo" height="200">
 	<br>
 	<br>
 </div>
