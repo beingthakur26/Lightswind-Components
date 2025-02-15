@@ -45,6 +45,8 @@ You can also include Lightswind UI in your project by directly linking to the CD
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
+[![](https://data.jsdelivr.com/v1/package/npm/lightswind/badge)](https://www.jsdelivr.com/package/npm/lightswind)
+
 ## Contributing
 We welcome contributions to Lightswind UI. Before submitting a pull request, please review our [contributing guidelines](https://lightswind.com/docs/license) to ensure your submission aligns with our project standards.
 
