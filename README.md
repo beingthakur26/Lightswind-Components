@@ -44,7 +44,7 @@ You can also include Lightswind UI in your project by directly linking to the CD
 <!-- Tailwind CSS CDN -->
 <script src="https://cdn.tailwindcss.com"></script>
 ```
-
+[![npm version](https://img.shields.io/npm/v/lightswind.svg)](https://www.jsdelivr.com/package/npm/lightswind)
 [![](https://data.jsdelivr.com/v1/package/npm/lightswind/badge)](https://www.jsdelivr.com/package/npm/lightswind)
 
 ## Contributing
